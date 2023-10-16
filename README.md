@@ -1,4 +1,4 @@
 # task-jam-backend
-Code for matchmaking system and AI task matchmaking.
+Code for task jam's matchmaking system and AI task analysis
 
-IMPORTANT: To run the program, you must create a file called openai_key.txt and place your key inside.
+IMPORTANT - To run the .py file, there needs to be txt file named "openai_key.txt" in the same folder with an OpenAI api key inside. Get one at https://platform.openai.com/account/api-keys
